@@ -1,0 +1,287 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Subject 1"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "SUBJECT NR"
+        ]
+      },
+      "value": {
+        "none": [
+          "1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "EEUW"
+        ]
+      },
+      "value": {
+        "none": [
+          "18de"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "SET"
+        ]
+      },
+      "value": {
+        "none": [
+          "nan"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "ARCHIEF"
+        ]
+      },
+      "value": {
+        "none": [
+          "RA Brugge"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "INVENTARIS"
+        ]
+      },
+      "value": {
+        "none": [
+          "I15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "INVENTARISNUMMER"
+        ]
+      },
+      "value": {
+        "none": [
+          "16999"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "STAD-PLATTELAND"
+        ]
+      },
+      "value": {
+        "none": [
+          "Platteland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "TAAL"
+        ]
+      },
+      "value": {
+        "none": [
+          "NL"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "DATUM_VERHOOR"
+        ]
+      },
+      "value": {
+        "none": [
+          "12 mei 1708"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "FAMILIENAAM"
+        ]
+      },
+      "value": {
+        "none": [
+          "Clist"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "VOORNAAM"
+        ]
+      },
+      "value": {
+        "none": [
+          "Thomas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "ROL "
+        ]
+      },
+      "value": {
+        "none": [
+          "V"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "GESLACHT"
+        ]
+      },
+      "value": {
+        "none": [
+          "M"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "PAGINA'S"
+        ]
+      },
+      "value": {
+        "none": [
+          "6"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_01.jpg/full/80,100/0/default.jpg",
+      "type": "thumbnail",
+      "service": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_01.jpg",
+          "type": "ImageService3"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-1",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Page 1"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_01.jpg/full/80,100/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3986,
+      "width": 2721,
+      "items": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/page/page-1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_01.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3986,
+                "width": 2721,
+                "service": [
+                  {
+                    "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_01.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-2",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Page 2"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_02.jpg/full/80,100/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3792,
+      "width": 2706,
+      "items": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/page/page-2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_02.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3792,
+                "width": 2706,
+                "service": [
+                  {
+                    "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_02.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
