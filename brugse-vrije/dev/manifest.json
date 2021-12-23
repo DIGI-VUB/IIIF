@@ -282,6 +282,186 @@
           ]
         }
       ]
+    },
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-3",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Page 3"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_03.jpg/full/80,100/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 4018,
+      "width": 2690,
+      "items": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/page/page-3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_03.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4018,
+                "width": 2690,
+                "service": [
+                  {
+                    "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_03.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-4",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Page 4"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_04.jpg/full/80,100/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3786,
+      "width": 2648,
+      "items": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/page/page-4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_04.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3786,
+                "width": 2648,
+                "service": [
+                  {
+                    "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_04.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-5",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Page 5"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_05.jpg/full/80,100/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 4061,
+      "width": 2664,
+      "items": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/page/page-5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/annotation/p0005-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_05.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4061,
+                "width": 2664,
+                "service": [
+                  {
+                    "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_05.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-6",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Page 6"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_06.jpg/full/80,100/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3259,
+      "width": 2718,
+      "items": [
+        {
+          "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/page/page-6/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/annotation/p0006-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_06.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3259,
+                "width": 2718,
+                "service": [
+                  {
+                    "id": "https://iiif.datatailor.be/brugse-vrije/images/RABrugge_I15_16999_V1_06.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.datatailor.be/brugse-vrije/manifests/subject-0001/canvas/page-6"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
